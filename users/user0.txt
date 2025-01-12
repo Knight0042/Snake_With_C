@@ -1,0 +1,14 @@
+User Number
+0
+Username
+Guest
+Password
+none
+High Score
+1
+Tick Speed Choice
+2
+Width Choice
+0
+Height Choice
+0
