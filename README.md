@@ -9,5 +9,6 @@ The login menu allows players to save their high scores and settings across play
 
 These images are gameplay from Snake showing the various ways the arena can be adjusted.
 ![image](https://github.com/user-attachments/assets/f8a45fa7-f8da-4585-80d4-8924042a9d7a)
+![image](https://github.com/user-attachments/assets/58acc1ab-6dfd-48d2-9e02-05190b73b37b) ![image](https://github.com/user-attachments/assets/5975f167-6ab9-4f26-986f-23adc2cd44ed) ![image](https://github.com/user-attachments/assets/f624fff4-71fb-493b-8cbf-84b7ea9011c4)
 
-![image](https://github.com/user-attachments/assets/58acc1ab-6dfd-48d2-9e02-05190b73b37b)
+
